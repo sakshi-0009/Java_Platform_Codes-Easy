@@ -2,7 +2,7 @@
 Given the head of a singly linked list, reverse the list, and return the reversed list.
 */
 
-// Answer :-
+// Answer:-
 
 class Solution {
     public ListNode reverseList(ListNode head) {
